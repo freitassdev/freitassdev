@@ -1,10 +1,10 @@
-## 💜 Olá, meu nome é <strong>{seu nome}!</strong>
+## 💜 Olá, me chamo <strong>Michel Freitas!</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
+> Comecei na programação aos 12 anos, dês de então, venho aprendendo e melhorando meus conhecimentos. Atuo principalmente no desenvolvimento web, no frontend e no backend.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 Atualmente desenvolvendo um bot para discord, usando eris e react.js para o website!
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+“Knowledge is a skeleton key."
 
 ----
 
