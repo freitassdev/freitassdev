@@ -1,6 +1,6 @@
 ## 💜 Olá, me chamo <strong>Michel Freitas!</strong>
 
-> Comecei na programação aos 12 anos, dês de então, venho aprendendo e melhorando meus conhecimentos. Atuo principalmente no desenvolvimento web, no frontend e no backend.
+> Comecei na programação aos 12 anos, dês de então venho aprendendo e melhorando meus conhecimentos. Atuo principalmente no desenvolvimento web, no frontend e no backend.
 
 🔭 Atualmente desenvolvendo um bot para discord, usando eris e react.js para o website!
 
