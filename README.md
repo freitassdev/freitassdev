@@ -1,4 +1,6 @@
+<details align="center"> 
 ## 💜 Olá, me chamo <strong>Michel Freitas!</strong>
+</details>
 
 > Comecei na programação aos 12 anos, dês de então venho aprendendo e melhorando meus conhecimentos. Atuo principalmente no desenvolvimento web, no frontend e no backend.
 
