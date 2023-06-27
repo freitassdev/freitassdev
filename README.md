@@ -1,5 +1,5 @@
-<div align="center"> 
-<h1> 💜 Olá, me chamo <strong>Michel Freitas!</strong></h1>
+<div> 
+<h1 align="center"> 💜 Olá, me chamo <strong>Michel Freitas!</strong></h1>
 <ul>
   <li>Comecei na programação aos 12 anos, dês de então venho aprendendo e melhorando meus conhecimentos. Atuo principalmente no desenvolvimento web, no frontend e no backend.</li>
   <li>Cursando Desenvolvimento de Sistemas na ETEC Jaraguá.</li>
