@@ -29,10 +29,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=freitassdev&show_icons=true"/>
 </div>
 
-
----
-
-<div align="center">
-  <h1>⭐ Informações sobre minha conta GitHub</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=freitassdev&show_icons=true"/>
-</div>
