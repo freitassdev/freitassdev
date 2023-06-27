@@ -1,11 +1,13 @@
-<details align="center"> 
+<div align="center"> 
 ## 💜 Olá, me chamo <strong>Michel Freitas!</strong>
-</details>
+</div>
 
 > Comecei na programação aos 12 anos, dês de então venho aprendendo e melhorando meus conhecimentos. Atuo principalmente no desenvolvimento web, no frontend e no backend.
-
+> Cursando Desenvolvimento de Sistemas na ETEC Jaraguá.
+> Trabalhando na Focus Têxtil como desenvolvedor ABAP!
+<div align="center">
 🔭 “Knowledge is a skeleton key."
-
+</div>
 ----
 
 ## 🚀 Minhas Skills
@@ -21,4 +23,4 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zuifiti&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=freitassdev&show_icons=true)
