@@ -10,8 +10,10 @@
 <div align="center">
 <h2>🔭 “Knowledge is a skeleton key.”</h2>
 </div>
+
 ---
-## 🚀 Minhas Skills
+
+<h1 align="center">🚀 Minhas Skills</h1>
 
 <code><img height="32" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c#"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
