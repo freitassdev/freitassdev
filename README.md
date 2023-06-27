@@ -1,13 +1,14 @@
 <div> 
 <h1 align="center"> 💜 Olá, me chamo <strong>Michel Freitas!</strong></h1>
+<h2 align="center">Comecei na programação aos 12 anos, dês de então venho aprendendo e melhorando meus conhecimentos. Atuo principalmente no desenvolvimento web, no frontend e no backend.</h2>
 <ul>
-  <li>Comecei na programação aos 12 anos, dês de então venho aprendendo e melhorando meus conhecimentos. Atuo principalmente no desenvolvimento web, no frontend e no backend.</li>
+  <li>Competindo na Olimpíada Brasileira de Informática.</li>
   <li>Cursando Desenvolvimento de Sistemas na ETEC Jaraguá.</li>
-  <li>Trabalhando na Focus Têxtil como desenvolvedor ABAP!</li>
+  <li>Trabalhando na Focus Têxtil como desenvolvedor ABAP/SAP!</li>
 </ul>
 </div>
 <div align="center">
-🔭 “Knowledge is a skeleton key."
+<h2>🔭 “Knowledge is a skeleton key.”</h2>
 </div>
 ----
 
