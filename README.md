@@ -1,5 +1,6 @@
 <div> 
 <h1 align="center"> 💜 Olá, me chamo <strong>Michel Freitas!</strong></h1>
+<hr/>
 <h3 align="center">Comecei na programação aos 12 anos, dês de então venho aprendendo e melhorando meus conhecimentos. Atuo principalmente no desenvolvimento web, no frontend e no backend.</h3>
 <ul>
   <li>Competindo na Olimpíada Brasileira de Informática.</li>
@@ -10,7 +11,7 @@
 <div align="center">
 <h2>🔭 “Knowledge is a skeleton key.”</h2>
 </div>
-
+---
 ## 🚀 Minhas Skills
 
 <code><img height="32" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c#"/></code>
