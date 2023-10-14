@@ -4,7 +4,7 @@
   <ul>
     <li>Competindo na Olimpíada Brasileira de Informática.</li>
     <li>Cursando Desenvolvimento de Sistemas na ETEC Jaraguá.</li>
-    <li>Trabalhando na Focus Têxtil como desenvolvedor ----!</li>
+    <li>Trabalhando na Focus Têxtil como desenvolvedor full stack!</li>
   </ul>
   <h2 align="center">🔭 “Knowledge is a skeleton key.”</h2>
 </div>
