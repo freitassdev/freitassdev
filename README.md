@@ -2,9 +2,11 @@
   <h1 align="center">👋 Olá, me chamo <strong>Michel Freitas!</strong></h1>
   <h3 align="center">Comecei na programação aos 12 anos, desde então venho aprendendo e melhorando meus conhecimentos. Atuo principalmente no desenvolvimento web, no frontend e no backend.</h3>
   <ul>
-    <li>Competindo na Olimpíada Brasileira de Informática.</li>
+    <li>Estudando TypeScript e Nest.js</li>
     <li>Cursando Desenvolvimento de Sistemas na ETEC Jaraguá.</li>
-    <li>Trabalhando na Focus Têxtil como desenvolvedor full stack!</li>
+    <li>Trabalhando na Focus Têxtil como desenvolvedor full stack.</li>
+    <li>https://michelfreitas.com</li>
+    
   </ul>
   <h2 align="center">🔭 “Knowledge is a skeleton key.”</h2>
 </div>
